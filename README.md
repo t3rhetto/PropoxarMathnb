@@ -144,12 +144,6 @@ export DEEPSEEK_API_KEY="your-api-key-here"
 
 ## License / 许可证
 
-MIT License
-
----
-
-## License / 许可证
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 本项目基于 MIT 许可证开源 - 详见 [LICENSE](LICENSE) 文件。
