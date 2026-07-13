@@ -148,15 +148,8 @@ MIT License
 
 ---
 
-## Contributing / 贡献
+## License / 许可证
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-欢迎贡献！请随时提交 Pull Request。
-
----
-
-## Acknowledgments / 致谢
-
-- Built with [PySide6](https://wiki.qt.io/Qt_for_Python)
-- AI powered by [DeepSeek](https://deepseek.com)
+本项目基于 MIT 许可证开源 - 详见 [LICENSE](LICENSE) 文件。
