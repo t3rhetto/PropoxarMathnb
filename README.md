@@ -1,3 +1,7 @@
+> **已停止维护 / Discontinued（2026-10-14）**
+> 作者已放弃本项目，不再继续开发，也不再提供修复或支持。现有代码与历史发布仅供参考。
+> This project has been discontinued. No further development, fixes, or support are planned. Existing source and releases remain available for reference.
+
 # PropoxarMathnb
 
 > AI-Powered Calculus Learning Assistant for macOS
